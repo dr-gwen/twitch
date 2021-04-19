@@ -18,7 +18,7 @@ library(cowplot)
 theme_set(theme_cowplot())
 
 for(test in vector){
-  cat(' !-- This is a test!')
+  cat(' !-- This is a test!') # Syntax highlighting works!!
 }
 
 # ---- defaults below:
