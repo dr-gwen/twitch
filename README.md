@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/dr-gwen/twitch/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Can we do [little a link](test.html)?
+Can we do [little a link](test.html)? -- yes, we can! 🤯 (does not work from GitHub view, does work from index.html!)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
