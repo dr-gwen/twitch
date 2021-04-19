@@ -17,6 +17,10 @@ library(cowplot)
 
 theme_set(theme_cowplot())
 
+for(test in vector){
+  cat(' !-- This is a test!')
+}
+
 # ---- defaults below:
 ```
 # Here's the markdown code block example:
