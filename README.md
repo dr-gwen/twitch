@@ -8,7 +8,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+```R
+
+library(ggplot2)
+library(cowplot)
+
+theme_set(theme_cowplot())
+
+# ---- defaults below:
+
 Syntax highlighted code block
 
 # Header 1
