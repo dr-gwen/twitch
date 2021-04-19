@@ -16,7 +16,9 @@ library(cowplot)
 theme_set(theme_cowplot())
 
 # ---- defaults below:
-
+```
+# Here's the markdown code block example:
+```markdown
 Syntax highlighted code block
 
 # Header 1
